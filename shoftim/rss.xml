@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>שיעורים בספר שופטים – הרב איתן יקיר</title>
+    <link>https://roeepe.github.io/eitan-yakir-podcasts/shoftim/</link>
+    <atom:link href="https://roeepe.github.io/eitan-yakir-podcasts/shoftim/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>he</language>
+    <description><![CDATA[שיעורים בספר שופטים מפי הרב איתן יקיר, ישיבת בית אל – נתניה. פרק אחר פרק, מהמבוא לתקופת השופטים ועד פילגש בגבעה וחתימת הספר: המעגל החוזר של חטא, שעבוד וישועה, דמויות השופטים – עתניאל ואהוד, דבורה וברק, גדעון, יפתח ושמשון – ומה ספר שופטים מלמד על הנהגת עם ישראל בארצו.
+
+הפקת הפודקאסט: סטודיו תכלית – https://tachlitai.co.il]]></description>
+    <itunes:summary>שיעורים בספר שופטים מפי הרב איתן יקיר, ישיבת בית אל – נתניה. פרק אחר פרק, מהמבוא לתקופת השופטים ועד פילגש בגבעה וחתימת הספר: המעגל החוזר של חטא, שעבוד וישועה, דמויות השופטים – עתניאל ואהוד, דבורה וברק, גדעון, יפתח ושמשון – ומה ספר שופטים מלמד על הנהגת עם ישראל בארצו.
+
+הפקת הפודקאסט: סטודיו תכלית – https://tachlitai.co.il</itunes:summary>
+    <itunes:author>הרב איתן יקיר</itunes:author>
+    <itunes:owner>
+      <itunes:name>איתן יקיר</itunes:name>
+      <itunes:email>eitan3645@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>eitan3645@gmail.com (איתן יקיר)</managingEditor>
+    <copyright>© 2026 הרב איתן יקיר</copyright>
+    <itunes:image href="https://roeepe.github.io/eitan-yakir-podcasts/shoftim/cover.jpg?v=1"/>
+    <image><url>https://roeepe.github.io/eitan-yakir-podcasts/shoftim/cover.jpg?v=1</url><title>שיעורים בספר שופטים – הרב איתן יקיר</title><link>https://roeepe.github.io/eitan-yakir-podcasts/shoftim/</link></image>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <podcast:guid>84b7e549-e120-5b7b-b836-3337abf27daf</podcast:guid>
+    <generator>סטודיו תכלית</generator>
+    <lastBuildDate>Sun, 08 Nov 2026 16:25:56 +0000</lastBuildDate>
+
+  </channel>
+</rss>
