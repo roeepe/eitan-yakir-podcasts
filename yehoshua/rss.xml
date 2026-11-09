@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>שיעורים בספר יהושע - הרב איתן יקיר</title>
+    <link>https://roeepe.github.io/eitan-yakir-podcasts/yehoshua/</link>
+    <atom:link href="https://roeepe.github.io/eitan-yakir-podcasts/yehoshua/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>he</language>
+    <description><![CDATA[שיעורים בספר יהושע מפי הרב איתן יקיר, ישיבת בית אל – נתניה. הספר נפתח במותו של משה, כאשר עם ישראל נמצא במדבר - בערבות מואב, ומעבר לירדן הם רואים ארץ מלאה בצבאות, מלכים וגיבורים. מנגד, הספר מסתיים במצב בו הארץ שקטה ממלחמה, כל שבט שוכן בנחלתו ועוסק בנטיעת שדות וכרמים. 
+השינוי שמעביר יהושע את העם במהלך הספר הוא עצום. כיצד עוברים מהמדבר אל החיים? מהנהגה ניסית להנהגה טבעית? מדור שמקבל תורה מפי הגבורה על ידי משה רבנו לדור שעוסק במלחמה ובהתנחלות? בכך נעסוק בלימוד הספר, פרק אחר פרק, מתחילת דרכו של יהושע ועד נאומי הפרידה שלפני מותו.
+
+הפקת הפודקאסט: סטודיו תכלית – https://tachlitai.co.il]]></description>
+    <itunes:summary>שיעורים בספר יהושע מפי הרב איתן יקיר, ישיבת בית אל – נתניה. הספר נפתח במותו של משה, כאשר עם ישראל נמצא במדבר - בערבות מואב, ומעבר לירדן הם רואים ארץ מלאה בצבאות, מלכים וגיבורים. מנגד, הספר מסתיים במצב בו הארץ שקטה ממלחמה, כל שבט שוכן בנחלתו ועוסק בנטיעת שדות וכרמים. 
+השינוי שמעביר יהושע את העם במהלך הספר הוא עצום. כיצד עוברים מהמדבר אל החיים? מהנהגה ניסית להנהגה טבעית? מדור שמקבל תורה מפי הגבורה על ידי משה רבנו לדור שעוסק במלחמה ובהתנחלות? בכך נעסוק בלימוד הספר, פרק אחר פרק, מתחילת דרכו של יהושע ועד נאומי הפרידה שלפני מותו.
+
+הפקת הפודקאסט: סטודיו תכלית – https://tachlitai.co.il</itunes:summary>
+    <itunes:author>הרב איתן יקיר</itunes:author>
+    <itunes:owner>
+      <itunes:name>איתן יקיר</itunes:name>
+      <itunes:email>eitan3645@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>eitan3645@gmail.com (איתן יקיר)</managingEditor>
+    <copyright>© 2026 הרב איתן יקיר</copyright>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Judaism"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <podcast:guid>abbc167c-7c41-51b4-8493-6a99e2700091</podcast:guid>
+    <generator>סטודיו תכלית</generator>
+    <lastBuildDate>Mon, 09 Nov 2026 10:06:05 +0000</lastBuildDate>
+
+  </channel>
+</rss>
