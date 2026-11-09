@@ -20,6 +20,8 @@
     </itunes:owner>
     <managingEditor>eitan3645@gmail.com (איתן יקיר)</managingEditor>
     <copyright>© 2026 הרב איתן יקיר</copyright>
+    <itunes:image href="https://roeepe.github.io/eitan-yakir-podcasts/yehoshua/cover.jpg?v=1"/>
+    <image><url>https://roeepe.github.io/eitan-yakir-podcasts/yehoshua/cover.jpg?v=1</url><title>שיעורים בספר יהושע - הרב איתן יקיר</title><link>https://roeepe.github.io/eitan-yakir-podcasts/yehoshua/</link></image>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Judaism"/>
     </itunes:category>
@@ -27,7 +29,7 @@
     <itunes:type>serial</itunes:type>
     <podcast:guid>abbc167c-7c41-51b4-8493-6a99e2700091</podcast:guid>
     <generator>סטודיו תכלית</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 10:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:18:03 +0000</lastBuildDate>
 
   </channel>
 </rss>
